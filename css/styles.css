@@ -1,6 +1,6 @@
 
 body {
-  background-color: #d6d8d8;
+  background-color: #c5dbdb;
   background-repeat: no-repeat;
   background-size: 100% 100% cover;
 }
@@ -28,7 +28,7 @@ a {
   height: 500px;
 }
 
-.bgPara {
+.bg-banner {
   background-position: 50% 50%;
   background-size:cover;
   background-repeat: no-repeat;
