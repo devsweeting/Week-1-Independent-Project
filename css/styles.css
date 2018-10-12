@@ -1,0 +1,22 @@
+
+body {
+  background-color: #red;
+}
+
+a {
+  color: white;
+}
+
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url(http://www.wallpapers-web.com/data/out/38/4037376-bokeh-wallpapers.jpg);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+.row {
+
+}
