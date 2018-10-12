@@ -36,3 +36,13 @@ a {
   height: 500px
 
 }
+
+.indexfooter {
+  background-color: #c5dbdb;
+  background-position: 10% 10%;
+  background-size:50px;
+  background-repeat: no-repeat;
+  padding:0;
+  margin-bottom:10px;
+  padding-bottom:50px;
+}
