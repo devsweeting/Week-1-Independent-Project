@@ -1,6 +1,8 @@
 
 body {
-  background-color: #red;
+  background-color: #d6d8d8;
+  background-repeat: no-repeat;
+  background-size: 100% 100% cover;
 }
 
 a {
@@ -9,14 +11,28 @@ a {
 
 .jumbotron {
     margin-bottom: 0px;
-    background-image: url(http://www.wallpapers-web.com/data/out/38/4037376-bokeh-wallpapers.jpg);
+    background-image: url(../img/abstrat.jpg);
     background-position: 0% 25%;
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
     text-shadow: black 0.3em 0.3em 0.3em;
+    height: 500px ;
 }
 
-.row {
+.Devin {
+  height: 200px;
+}
+
+.big-banner {
+  height: 500px;
+}
+
+.bgPara {
+  background-position: 50% 50%;
+  background-size:cover;
+  background-repeat: no-repeat;
+  padding:0;
+  height: 500px
 
 }
