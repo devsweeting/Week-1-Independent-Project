@@ -9,6 +9,14 @@ a {
   color: white;
 }
 
+a:hover {color: #2B817D}
+
+h2 , .Contact {
+  font-style: italic;
+}
+
+span {font-weight: bold;}
+
 .jumbotron {
     margin-bottom: 0px;
     background-image: url(../img/abstrat.jpg);
@@ -22,6 +30,11 @@ a {
 
 .Devin {
   height: 200px;
+}
+
+.thumbsup {
+  float: right;
+  margin-top: 40px;
 }
 
 .big-banner {
