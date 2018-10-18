@@ -7,7 +7,7 @@
 ## Description
 
 
-This site is to serve as the foundation for a online Portfolio for future use. It is a Resume as well as a Portfolio for past works in addition to a rad meme page.
+This site is to serve as the foundation for a online Portfolio for future use. It is a Resume as well as a Portfolio for past works in addition to a rad meme page. Here is the link to the Gh pages: https://devsweeting.github.io/Week-1-Independent-Project
 
 ## Setup/Installation Requirements
 
